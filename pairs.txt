@@ -4,8 +4,8 @@
 
 Write your names and follow the format:
 
-Pair 1: Jahziel Rae M Arceo
-Pair 1: John Theodore U Yap
+Pair 1: Jahziel Rae M. Arceo
+Pair 1: John Theodore U. Yap
 
 <Pair 2: PERSON A FULLNAME>
 <Pair 2: PERSON B FULLNAME>
