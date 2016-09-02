@@ -16,3 +16,5 @@ Write your names and follow the format:
   Department of Computer Science
   University of the Philippines Diliman
 =========================================
+ANGELICA JUAREZ
+DAISYREE VISCAYA
