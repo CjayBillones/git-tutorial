@@ -16,3 +16,6 @@ Write your names and follow the format:
   Department of Computer Science
   University of the Philippines Diliman
 =========================================
+
+Eugene P. Kasilag
+John Gedric V. Tudio
